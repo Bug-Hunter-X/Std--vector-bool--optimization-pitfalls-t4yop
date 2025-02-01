@@ -1,0 +1,1 @@
+std::vector<bool> is a special case in the C++ Standard Template Library (STL).  While it looks and acts like a vector of booleans, it's implemented differently for optimization purposes. This optimization, however, can lead to unexpected behavior if you treat it exactly like other vectors.
